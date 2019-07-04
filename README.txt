@@ -1,0 +1,1 @@
+The program checker.pyw is run every 5 minutes via task scheduler.
